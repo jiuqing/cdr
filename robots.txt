@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /data/
+Disallow: /template/
+Sitemap: http://www.test.com/sitemap/index
+Sitemap: http://www.test.com/sitemap/htm
